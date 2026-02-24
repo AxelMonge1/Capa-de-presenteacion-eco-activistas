@@ -85,7 +85,7 @@ public class ClienteController {
         return clienteDAO.eliminar(idCliente);
     }
     
-      public DefaultTableModel obtenerTablaClientes() {
+    public DefaultTableModel obtenerTablaClientes() {
         String[] columnas = {"ID", "NOMBRE", "DIRECCIÓN", "TELEFÓNO"};
         DefaultTableModel modelo = new DefaultTableModel(null, columnas);
         List<Cliente> lista = clienteDAO.obtenerTodos();
