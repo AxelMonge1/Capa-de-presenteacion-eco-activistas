@@ -1,6 +1,7 @@
 com\mycompany\ecoactivistas\model\Activista.class
 com\mycompany\ecoactivistas\dao\ProblemaActivistaDAO.class
 com\mycompany\ecoactivistas\config\vistas\DlgBuscarClientes$2.class
+com\mycompany\ecoactivistas\config\vistas\FrmActivistas$1.class
 com\mycompany\ecoactivistas\config\vistas\FrmClientes$3.class
 com\mycompany\ecoactivistas\model\Cliente.class
 com\mycompany\ecoactivistas\config\vistas\FrmClientes.class
@@ -12,11 +13,13 @@ com\mycompany\ecoactivistas\config\vistas\FrmProblemas$1.class
 com\mycompany\ecoactivistas\config\vistas\DlgBuscarClientes$4$1.class
 com\mycompany\ecoactivistas\config\vistas\FrmPrincipal$2.class
 com\mycompany\ecoactivistas\interfaces\IActivistaDAO.class
+com\mycompany\ecoactivistas\config\vistas\FrmActivistas$3.class
 com\mycompany\ecoactivistas\config\vistas\FrmProblemas$4.class
 com\mycompany\ecoactivistas\config\vistas\FrmPrincipal$3.class
 com\mycompany\ecoactivistas\config\vistas\FrmProblemas$2.class
 com\mycompany\ecoactivistas\controller\ActivistaController.class
 com\mycompany\ecoactivistas\config\vistas\FrmClientes$2.class
+com\mycompany\ecoactivistas\config\vistas\FrmActivistasProblemas.class
 com\mycompany\ecoactivistas\controller\ProblemaActivistaController.class
 com\mycompany\ecoactivistas\config\vistas\FrmPrincipal$1.class
 com\mycompany\ecoactivistas\config\vistas\DlgBuscarClientes$1.class
@@ -25,7 +28,9 @@ com\mycompany\ecoactivistas\controller\ProblemaController.class
 com\mycompany\ecoactivistas\config\ConexionDB.class
 com\mycompany\ecoactivistas\config\vistas\DlgBuscarClientes$3.class
 com\mycompany\ecoactivistas\config\vistas\FrmActivistas.class
+com\mycompany\ecoactivistas\config\vistas\FrmActivistas$2.class
 com\mycompany\ecoactivistas\interfaces\IClienteDAO.class
+com\mycompany\ecoactivistas\config\vistas\FrmActivistas$4.class
 com\mycompany\ecoactivistas\model\ProblemaActivista.class
 com\mycompany\ecoactivistas\config\vistas\FrmClientes$1.class
 com\mycompany\ecoactivistas\config\vistas\FrmClientes$6.class
